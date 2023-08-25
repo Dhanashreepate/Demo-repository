@@ -1,4 +1,4 @@
 # Demo-repository
-This is my first Git Repository.
+This is my First Git Repository.
 <Br>
 Author-Dhanashree Pate
